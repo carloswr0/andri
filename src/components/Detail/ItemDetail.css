@@ -1,0 +1,56 @@
+/*to reset the page*/
+li,
+ul,
+ol {
+  list-style: none;
+  
+}
+
+input,
+button,
+textarea,
+select {
+    font: inherit;
+  }
+
+   
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+ol,
+li {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5rem;
+    
+}
+
+a:link, a:visited, a:active {
+  text-decoration:none;
+}
+
+
+.titleDetail{
+    margin-bottom: 5rem;
+    margin-top: 1rem;
+}
+
+.imgDetail{
+  width: 30rem;
+  height: 30rem;
+  border: 2px solid black;
+  border-radius: 2px;
+}
+
+.descriptionDetail{
+    margin-top: 2rem;
+    width: 60rem;
+    text-align: center;
+    line-height: 2rem;
+}
+
+

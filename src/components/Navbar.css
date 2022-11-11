@@ -1,0 +1,60 @@
+/*to reset the page*/
+li,
+ul,
+ol {
+  list-style: none;
+  
+}
+
+input,
+button,
+textarea,
+select {
+    font: inherit;
+  }
+
+   
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+ol,
+li {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5rem;
+    
+}
+
+a:link, a:visited, a:active {
+  text-decoration:none;
+}
+
+/*nav bar*/
+.nav{
+    display: flex;
+    align-items: center;
+    
+}
+.litest{
+    padding-right: 4rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+    cursor: pointer;
+}
+p{
+    font-size: 1.5rem;
+    font-weight: 500;
+    cursor: pointer;
+    
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    background-color: lightblue;
+    height: 3rem;
+    align-items: center;
+}

@@ -1,0 +1,74 @@
+[
+    { 
+        "name": "Dior Homme",
+        "description": "Dior Homme has been redesigned in 2020 by the House of Dior perfumer, François Demachy. It belongs to the Woody olfactory family, it creates a set in harmony with raw wood, as well as soft, hand-carved by Dior.",
+        "price": "U$100",
+        "image": "/assets/dior-homme-.jpg", 
+        "id": 1,
+        "category": "A"
+
+    },
+    {
+        "name": "Dior Homme Sport",
+        "description": "Top notes are grapefruit, blood orange, lemon and pear; middle notes are pink pepper, nutmeg and geranium; base notes are vetiver and sandalwood.",
+        "price": "U$120",
+        "image": "/assets/sport.jpg",
+        "id": 2,
+        "category": "A"
+    },
+    {
+        "name": "Dior Addict",
+        "description": "Dior Addict Eau de Parfum offers fresh and captivating notes of the Orange Blossom meeting with the Tunisian Orange Blossom.",
+        "price": "U$150",
+        "image": "/assets/dioraddict.jpg",
+        "id": 3,
+        "category": "A"
+    },
+    {
+        "name": "Miss Dior",
+        "description": "Calabrian bergamot brings its splendor to the top notes, in its heart, the tenderness of a peony and Damascus rose accord hides, the base notes are seasoned by a lace of white musk, a floral and spring signature.",
+        "price": "U$140",
+        "image": "/assets/missdior.jpg",
+        "id": 4,
+        "category": "A"
+    },
+    {
+        "name": "Hugo Boss Bottled",
+        "description": "The Bottled eau de toilette fragrance offers the perfect freshness for hot weather. Being characterized by its light aromas, you can use the amount you want without fear of overdoing it.",
+        "price": "U$110",
+        "image": "/assets/hugo-boss.jpg",
+        "id": 5,
+        "category": "B"
+    },
+    {
+        "name": "Hugo Woman",
+        "description": "Hugo Woman has notes that are proof of the maximum originality such as oakmoss, orchid, Virginia cedar, sandalwood and vanilla for a fruity and floral aroma.",
+        "price": "U$130",
+        "image": "/assets/Hugo-Woman.jpg",
+        "id": 6,
+        "category": "B"
+    },
+    {
+        "name": "Hugo Boss The Scent",
+        "description": "The Scent eau de toilette fragrance offers the perfect freshness for hot weather. Being characterized by its light aromas, you can use the amount you want without fear of overdoing it.",
+        "price": "U$115",
+        "image": "/assets/thescent.jpg",
+        "id": 7,
+        "category": "B"
+    },
+    {
+        "name": "Hugo Boss Energise",
+        "description": "Top notes are pink pepper, lemon, kumquat (dwarf orange), pineapple leaves, mint, mandarin orange and cardamom; middle notes are jasmine, nutmeg, juniper, freesia, coriander and clary sage; base notes are leather, vanilla and teak wood.",
+        "price": "U$105",
+        "image": "/assets/energise.jpg",
+        "id": 8,
+        "category": "B"  
+    }
+
+
+
+
+
+]
+   
+
